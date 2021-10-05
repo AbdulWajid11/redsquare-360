@@ -1,0 +1,51 @@
+@import url("./fontsize.css");
+@import url("./color.css");
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+/* section_1_background_image */
+.section_1_background_image{
+    background-image: url("../images/backgroundimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    
+    
+}
+/* section_1_part_1_360_about_hover */
+.hover_red:hover{
+    color: red;
+}
+
+/* section_2_padding */
+.section_2_padding{
+padding-top: 90px;
+}
+/* section_2_line_height */
+.line_height {
+    line-height: 40px;
+}
+/* section_5_position_image */
+.position_image{
+    position: absolute;
+}
+/* section_5_border_radius_twitter */
+.border_radius_twitter, .border_radius_facebook{
+    border-radius: 50px;
+}
+/* section_6_border_bottom_last_footer */
+.border_bottom_last_footer{
+    border-bottom: 1px solid;
+}
+/* for_responsive */
+.border_radius_hamburger{
+    border-radius: 50px;
+}
+/* FOR_RESPONSIVE */
+@media (max-width: 990px) and (min-width: 320px) {
+    .section_2_padding {
+        padding-top: 0px;
+    }
+ }

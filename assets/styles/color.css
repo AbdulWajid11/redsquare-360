@@ -1,0 +1,73 @@
+/* heading_color_home */
+.color_home {
+  color: red;
+}
+/* heading_color_360_about */
+.color_360_about {
+  color: rgba(255, 255, 255, 0.6);
+}
+/* part_2_All_text_color */
+.color_All_text,
+.color_last_p {
+  color: white;
+}
+/* color_section_1_2_last_span */
+.color_section_2_last_span,
+.section_2_part_2_span,
+.section_2_part_5_span, .color_h3_phone_location {
+  color: red;
+}
+/* section_2_All_content_div, section_6_footer */
+.section_2_All_content_div,.section_6_footer {
+  background-color: #1c1912;
+}
+/* section_2_heading_ul_color */ /* section_2_color_part_2 */
+.section_2_heading_ul_color,
+.color_part_2,
+.color_section_2_part_2,
+.section_2_p_4_color,
+.section_2_part_5_para_color,
+.color_section_4_part_1_heading,
+.color_section_4_part_3, .color_h3_phone_location_white {
+  color: white;
+}
+/* color_section_2_par_6, section_3_color_card */
+.color_section_par_6,
+.section_3_color_card,
+.color_section_3_part_2_heading,
+.color_section_2_part_3 {
+  color: #ffffffe6;
+}
+/* section_5_background_color_p_input_logos */
+.section_5_background_color_p_input_logos{
+    background-color: #332c29;
+}
+/* color_part_5_p */
+.color_part_5_p{
+    color: #c0aea0;
+}
+/* back_color_input */
+.back_color_input{
+    background-color: #332c29;
+    
+}
+/* border_input */
+.border_input{ border: 1px solid #aaa; 
+}
+/* part_5_logos_background_colors */
+.twitter_div_color, .facebook_div_color{
+    background-color: white;
+}
+/* section_6_footer_color_P */
+.color_p_footer, .color_footer{
+    color: #ffffffcc;
+}
+/* section_6_color_last_footer_p */
+.color_last_footer_p{
+    color: #ffffff4d;
+}
+/* for_responsive */
+/*color_hamburger */
+.color_hamburger{
+    background-color: white;
+}
